@@ -1,0 +1,24 @@
+{
+    "imagesProjectHome": [
+        {
+            "image": "/img/projects/project1.webp",
+            "altImage": "projecto1"
+        },
+        {
+            "image": "/img/projects/project2.webp",
+            "altImage": "projecto2"
+        },
+        {
+            "image": "/img/projects/project3.webp",
+            "altImage": "projecto3"
+        },
+        {
+            "image": "/img/projects/project4.webp",
+            "altImage": "projecto4"
+        },
+        {
+            "image": "/img/projects/project5.webp",
+            "altImage": "projecto5" 
+        }
+    ]
+}

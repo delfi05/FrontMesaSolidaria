@@ -1,0 +1,22 @@
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+
+  100% {
+    transform: translateX(calc(-150px * 10 - 12rem * 10));
+  }
+
+}
+
+.animate-scroll {
+  animation: scroll 30s linear infinite;
+}
+
+
+@media (min-width: 350px) and (max-width: 410px) {
+  .section_knowOrange {
+    width: 90%;
+    top: 15%;
+  }
+}

@@ -21,7 +21,7 @@ Para comenzar a utilizar este proyecto, sigue los siguientes pasos:
 
 1.  **Descargar el proyecto:** Clona este repositorio a tu máquina local. Puedes hacerlo usando el siguiente comando:
     ```bash
-    git clone [https://github.com/LorennFdz/Front-MesaSolidaria.git]
+    git clone [https://github.com/delfi05/FrontMesaSolidaria]
     ```
 
 2.  **Instalar las dependencias:** Navega al directorio del proyecto en tu terminal y ejecuta el siguiente comando para instalar todas las dependencias necesarias:
